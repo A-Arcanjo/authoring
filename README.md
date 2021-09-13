@@ -4,7 +4,7 @@
 - [x] [Internal Link](https://github.com/A-Arcanjo/authoring/edit/main/README.md#:~:text=Github%20Help-,Internal%20Link,-Images) 
 - [x] [Images](https://github.com/A-Arcanjo/authoring/edit/main/README.md#:~:text=Images-,Images,-Emojis)
 - [x] [Emojis](https://github.com/A-Arcanjo/authoring/edit/main/README.md#:~:text=Images-,Emoji,-Tables)
-- [x] [Tables](https://github.com/A-Arcanjo/authoring/edit/main/README.md#:~:text=Emojis-,Tables,-Names)
+- [x] [Tables](https://github.com/A-Arcanjo/authoring/edit/main/README.md#:~:text=Emoji-,Tables,-Names)
 
 ## External Link
 [Github Help](https://docs.github.com/en)
