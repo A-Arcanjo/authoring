@@ -1,10 +1,10 @@
 # Github Flavoured Markdown
 
-- [x] [External Link](https://github.com/A-Arcanjo/authoring/edit/main/README.md#:~:text=Github%20Flavoured%20Markdown-,External%20Link,-Github%20Help)
-- [x] [Internal Link](https://github.com/A-Arcanjo/authoring/edit/main/README.md#:~:text=Github%20Help-,Internal%20Link,-Images) 
-- [x] [Images](https://github.com/A-Arcanjo/authoring/edit/main/README.md#:~:text=Images-,Images,-Emojis)
-- [x] [Emojis](https://github.com/A-Arcanjo/authoring/edit/main/README.md#:~:text=Images-,Emoji,-Tables)
-- [x] [Tables](https://github.com/A-Arcanjo/authoring/edit/main/README.md#:~:text=Emoji-,Tables,-Names)
+- [x] [External Link](https://github.com/A-Arcanjo/authoring#external-link)
+- [x] [Internal Link](https://github.com/A-Arcanjo/authoring#internal-link) 
+- [x] [Images](https://github.com/A-Arcanjo/authoring#internal-link)
+- [x] [Emojis](https://github.com/A-Arcanjo/authoring#emoji)
+- [x] [Tables](https://github.com/A-Arcanjo/authoring#tables)
 
 ## External Link
 [Github Help](https://docs.github.com/en)
