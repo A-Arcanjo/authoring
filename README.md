@@ -1,10 +1,10 @@
 # Github Flavoured Markdown
 
-- [x] [External Link](https://github.com/A-Arcanjo/authoring#external-link)
-- [x] [Internal Link](https://github.com/A-Arcanjo/authoring#internal-link) 
-- [x] [Images](https://github.com/A-Arcanjo/authoring#internal-link)
-- [x] [Emojis](https://github.com/A-Arcanjo/authoring#emoji)
-- [x] [Tables](https://github.com/A-Arcanjo/authoring#tables)
+- [x] [`External Link`](#ExternalLink)
+- [x] [`Internal Link`](InternalLink) 
+- [x] [`Images`](Images)
+- [x] [`Emojis`](Emojis)
+- [x] [`Tables`](Tables)
 
 ## External Link
 [Github Help](https://docs.github.com/en)
