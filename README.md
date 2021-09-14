@@ -15,7 +15,7 @@
 ## Images
 ![Yaktocat](Pictures/yaktocat.png)
 
-## Emoji
+## Emojis
 :raised_eyebrow:
 
 ## Tables
